@@ -8,7 +8,6 @@
 * [Main Questions](#Main-Questions)
 * [Summary Conclusions and Insights](#Summary-Conclusions-and-Insights)
 * [Future Work](#Future-Work)
-* [Thank you!](#Thank-You!)
 
 ## Purpose
 
