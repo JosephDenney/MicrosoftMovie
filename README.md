@@ -16,20 +16,6 @@
 
 ## Description of Data
 
-### imdb.title.basics
-
-##### This data table provides basic data from imdb that contains title, year, runtime, and genre. It can be merged with title ratings on a common column called tconst.
-
-### imdb.title.ratings
-
-##### Data table contains average rating as well as the number of votes that go towards those ratings. It can be merged with title basics on a common column called tconst.
-
-### bom.movie_gross
-
-##### A table that contains movie titles and year of release in addition to foreign and domestic box office gross earnings.
-
-### tn.movie_budgets
-
 * imdb.title.basics
 
 ##### This data table provides basic data from imdb that contains title, year, runtime, and genre. It can be merged with title ratings on a common column called tconst.
