@@ -16,7 +16,6 @@
 
 ## Description of Data
 
-<<<<<<< HEAD
 ### imdb.title.basics
 
 ##### This data table provides basic data from imdb that contains title, year, runtime, and genre. It can be merged with title ratings on a common column called tconst.
@@ -30,7 +29,7 @@
 ##### A table that contains movie titles and year of release in addition to foreign and domestic box office gross earnings.
 
 ### tn.movie_budgets
-=======
+
 * imdb.title.basics
 
 ##### This data table provides basic data from imdb that contains title, year, runtime, and genre. It can be merged with title ratings on a common column called tconst.
@@ -44,7 +43,6 @@
 ##### A table that contains movie titles and year of release in addition to foreign and domestic box office gross earnings.
 
 * tn.movie_budgets
->>>>>>> 5a5bf68eb481a79257ff6e7725e5ac403ce79abc
 
 ##### Reveals information regarding production budgets and another look at domestic and worldwide gross sales for each film.
 
