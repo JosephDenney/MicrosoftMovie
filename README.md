@@ -55,7 +55,7 @@
 ![svg](ntbook1_files/ntbook1_36_0.svg)
 ![svg](ntbook1_files/ntbook1_37_0.svg)
 
-* Question 4: There are some extremely high ROI's for certain combinations of genres. After establishing a solid foundation of quality content and a user base supportive of that content, we advise that Microsoft utilize less than the average for production budgets while diversifying content rapidly. A focus on finding material to develop in the Horror, Thriller, Mystery, and Sci-Fi will provide return in investment in the long run. The worst thing Microsoft could do is throw money at projects only to have them underperform without first establishing quality original content.
+* Question 4: There are some extremely high ROI's for certain combinations of genres. After establishing a solid foundation of quality content and a user base supportive of that content, we advise that Microsoft utilize less than the average for production budgets while diversifying content rapidly. A focus on finding material to develop in the Horror, Thriller, Mystery, and Sci-Fi will provide return in investment in the long run. Instead of Microsoft heaping money at projects that have the possibility to underperform without any rewards, Microsoft should first establish quality original content. 
 
 ![svg](ntbook1_files/ntbook1_45_0.svg)
 
