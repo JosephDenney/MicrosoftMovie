@@ -2,6 +2,9 @@
 
 <img src="https://cnet4.cbsistatic.com/img/sEhYa6Z6XL7iEcTGkeESiRb5ajI=/1200x675/2020/04/17/9e4fd5eb-524c-4884-88df-b39286c78c21/microsoft-1085.jpg" width = "800"/>
 
+##### Presentation PDF
+##### Video Walkthrough
+
 ### Outline
 * [Purpose](#Purpose)
 * [Description of Data](#Description_of_Data)
@@ -35,7 +38,7 @@
 * Question 1: Does a longer runtime indicate a lower average rating? Should Microsoft have a target movie length range for their projects? 
 * Question 2: What can we learn by looking at the correlation between total gross and the average rating of a movie? Put slightly differently, does a higher quality movie demand more money at the BO?
 * Question 3: What genres of films gross the most at the box office? What other insights can we gather from looking into this?
-* Question 4: What genres of film provides the highest ROI?
+* Question 4: What genres of films provide the highest ROI?
 
 ## Summary Conclusions and Insights
 * Question 1: There is no readily apparent correlation between total runtime and the average rating of a movie based on the information in the data tables. Microsoft should focus on making movies within 1 standard deviation (+/- 22 minutes) of the mean of 95 minutes and they won't have an issue with viewers thinking movies are too long or too short.
@@ -60,7 +63,7 @@
 * A larger more complete dataset that provides more datapoints in terms of revenue and also budgets
 * Further breaking down individual genres in order to target one specific genre at a time
 * Creating a trend over time to spot changes in the movie making market
-*
+* Incorporate specific directors to the analysis to determine who specifically makes the most profitable movies
 
 ### Thank you!
 
