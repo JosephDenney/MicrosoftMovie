@@ -2,7 +2,7 @@
 
 <img src="https://cnet4.cbsistatic.com/img/sEhYa6Z6XL7iEcTGkeESiRb5ajI=/1200x675/2020/04/17/9e4fd5eb-524c-4884-88df-b39286c78c21/microsoft-1085.jpg" width = "800"/>
 
-##### https://github.com/JosephDenney/MicrosoftMovie/blob/master/Microsoft%20Movie%20Madness.pdf
+##### [Slideshow PDF](https://github.com/JosephDenney/MicrosoftMovie/blob/master/Microsoft%20Movie%20Madness.pdf)
 ##### Video Walkthrough
 
 ### Outline
